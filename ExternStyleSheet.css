@@ -1,0 +1,30 @@
+.fFormat
+{
+  font-family:Verdana, Geneva, sans-serif;
+  text-decoration: none;
+  color: #800517;
+}
+.pHeader
+{
+  font-family:Verdana, Geneva, sans-serif;
+  color: #800517;
+  font-weight: bolder;
+  font-size:x-large;
+}
+.fHeaderLink
+{
+  font-family:Verdana, Geneva, sans-serif;
+  text-decoration: none;
+  color: #FFFFFF;
+}
+.button
+{
+  font-family:Verdana, Geneva, sans-serif;
+  color: #800517;
+}
+.fBodyLink
+{
+  font-family:Verdana, Geneva, sans-serif;
+  text-decoration: none;
+  color: #0000FF;
+}
